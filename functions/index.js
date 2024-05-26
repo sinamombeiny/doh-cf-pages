@@ -1,5 +1,5 @@
-const doh = 'https://dns.nextdns.io/11cc3e/ALL'
-const dohjson = 'https://dns.nextdns.io/11cc3e/ALL'
+const doh = 'https://d.adguard-dns.com/dns-query/3cf5d7c7'
+const dohjson = 'https://d.adguard-dns.com/dns-query/3cf5d7c7'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
