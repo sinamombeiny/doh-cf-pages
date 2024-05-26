@@ -1,5 +1,5 @@
-const doh = 'https://freedns.controld.com/no-ads-porn-dating-drugs-gambling-typo-social-malware'
-const dohjson = 'https://freedns.controld.com/no-ads-porn-dating-drugs-gambling-typo-social-malware'
+const doh = 'https://dns.nextdns.io/9182f2/ALL'
+const dohjson = 'https://dns.nextdns.io/9182f2/ALL'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
