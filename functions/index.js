@@ -1,5 +1,5 @@
-const doh = 'https://freedns.controld.com/p3'
-const dohjson = 'https://freedns.controld.com/p3'
+const doh = 'https://d.adguard-dns.com/dns-query/3cf5d7c7'
+const dohjson = 'https://d.adguard-dns.com/dns-query/3cf5d7c7'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
