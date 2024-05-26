@@ -1,5 +1,5 @@
-const doh = 'https://dns.nextdns.io/9182f2/ALL'
-const dohjson = 'https://dns.nextdns.io/9182f2/ALL'
+const doh = 'https://dns.nextdns.io/11cc3e/ALL'
+const dohjson = 'https://dns.nextdns.io/11cc3e/ALL'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
